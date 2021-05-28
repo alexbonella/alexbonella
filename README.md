@@ -4,7 +4,7 @@ As passionate about Data, I enjoy making analysis, visualization, cleaning, and 
 
 I'm a fan of task automation and ETL processes for this reason I keep learning each day about technologies like Airflow, AWS Lambda among others.
 
-# My favourites tools : 
+# My favourite tools : 
 ![piton (1)](https://user-images.githubusercontent.com/45697319/119986243-39700700-bf89-11eb-9553-4901245868b1.png)
 ![docker](https://user-images.githubusercontent.com/45697319/119987060-37f30e80-bf8a-11eb-9f30-05a3d89307b0.png)
 ![dashboard](https://user-images.githubusercontent.com/45697319/119987731-f6169800-bf8a-11eb-90d7-15128e0a5766.png)
