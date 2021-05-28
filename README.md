@@ -18,7 +18,7 @@ I'm a fan of task automation and ETL processes for this reason I keep learning e
 ![apache_nifi_logo_icon_167863 (1)](https://user-images.githubusercontent.com/45697319/119990454-f5cbcc00-bf8d-11eb-9e82-71afe9c647b7.png)
 ![apache_kafka_vertical_logo_icon_169585](https://user-images.githubusercontent.com/45697319/119988561-daf85800-bf8b-11eb-9d34-013215e051e7.png)
 
-# How to reache me : 
+# Connect with me: 
 
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
 * [![Medium](https://img.shields.io/badge/-Medium-black)](https://datexland.medium.com/)
