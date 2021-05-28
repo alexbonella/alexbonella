@@ -20,7 +20,7 @@ I'm a fan of task automation and ETL processes for this reason I keep learning e
 
 # How to reache me : 
 
-* [![LinkedIn](https://img.shields.io/badge/-Go%20To%20LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
 * [![Medium](https://img.shields.io/badge/-Medium-black)](https://datexland.medium.com/)
 * [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
 * [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/story/alexbonella)
