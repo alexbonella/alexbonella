@@ -1,8 +1,8 @@
 # Hello , I'm alexbonella 👨‍💻
 
-As passionate about Data, I enjoy making analysis, visualization, cleaning, and moving data wherever needed, as well as apply Web scraping techniques in order to create amazing dashboard visualizations for stakeholders. On the other hand, I would like to learn more from specialists in the Data Science field or Data architects
+As passionate about Data, I enjoy making analysis, visualization, cleaning, and move data wherever needed as well as apply Web scraping techniques in order to create amazing dashboard visualizations for stakeholders. On the other hand, I would like to learn more from specialists in the Data Science field or Data architects.
 
-I'm a fan of task automation and ETL processes for this reason I keep learning each day about technologies like Airflow, AWS Lambda among others. 
+I'm a fan of task automation and ETL processes for this reason I keep learning each day about technologies like Airflow, AWS Lambda among others.
 
 # My favourites tools : 
 ![piton (1)](https://user-images.githubusercontent.com/45697319/119986243-39700700-bf89-11eb-9553-4901245868b1.png)
