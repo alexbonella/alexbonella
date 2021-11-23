@@ -1,8 +1,8 @@
 # Hello , I'm alexbonella 👨‍💻
 
-As passionate about Data, I enjoy making analysis, visualization, cleaning, and move data wherever needed as well as apply Web scraping techniques in order to create amazing dashboard visualizations for stakeholders. On the other hand, I would like to learn more from specialists in the Data Science field or Data architects.
+As a data lover, I enjoy helping companies solve their problems, such as data cleansing, ETL maintenance, and data migration wherever needed, orchestration is the key when you want to automate the delivery of the different types of data in real-time or batch, either to a data warehouse, a specific bucket or by email in any format of interest like CSV, JSON, parquet among others.
 
-I'm a fan of task automation and ETL processes for this reason I keep learning each day about technologies like Airflow, AWS Lambda among others.
+I consider myself a fan of task automation and ETL processes for this reason I keep learning each day about technologies like Airflow, Apache NIFI, AWS Lambda among others.
 
 # My favorite tools : 
 ![piton (1)](https://user-images.githubusercontent.com/45697319/119986243-39700700-bf89-11eb-9553-4901245868b1.png)
