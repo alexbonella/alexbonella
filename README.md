@@ -25,8 +25,8 @@ I consider myself a fan of task automation and ETL processes for this reason I k
 
 # Connect with me: 
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
-* [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
-* [![Website](https://img.shields.io/badge/-Website-green)](http://portafolio-ab.herokuapp.com/)
-* [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/users/10906576/alexbonella)
-* [![Twitter](https://img.shields.io/badge/-@Alex_bonella-1DA1F2)](https://twitter.com/Alex_bonella)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
+ [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
+ [![Website](https://img.shields.io/badge/-Website-green)](http://portafolio-ab.herokuapp.com/)
+ [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/users/10906576/alexbonella)
+ [![Twitter](https://img.shields.io/badge/-@Alex_bonella-1DA1F2)](https://twitter.com/Alex_bonella)
