@@ -1,3 +1,4 @@
+![cover_images](https://user-images.githubusercontent.com/45697319/160701425-121c8be7-c3df-4bdf-8f37-43d51069a5c9.jpeg)
 # Hello , I'm alexbonella 👨‍💻
 
 As a data lover, I enjoy helping companies solve their problems, such as data cleansing, ETL maintenance, and data migration wherever needed, orchestration is the key when you want to automate the delivery of the different types of data in real-time or batch, either to a data warehouse, a specific bucket or by email in any format of interest like CSV, JSON, parquet among others.
