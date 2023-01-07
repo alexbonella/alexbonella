@@ -1,8 +1,6 @@
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/45697319/195083597-7b76e457-6337-41e4-a9a5-d93bcd695d82.png">
-</p>
 
-# Hello , I'm alexbonella | Sr Data Engineer | Udemy Instructor 👨‍💻
+# Hello , I'm alexbonella 
+### Sr Data Engineer | Udemy Instructor | AWS-CB   👨‍💻
 
 As a data lover, I enjoy creating ETL processes, transforming raw data into valuable data, finding insights that are capable of adding value to the business, orchestration is the key when you want to automate the delivery of the different types of files in real-time or batch, either to a data warehouse, a specific bucket or by email in any format of interest like CSV, JSON, parquet among others.
 
@@ -11,6 +9,7 @@ I consider myself a fan of task automation and ETL processes for this reason I k
 # Udemy Courses : 
 
 * [![Udemy](https://img.shields.io/badge/Udemy-Course-purple)](https://www.udemy.com/course/crea-tu-portafolio-como-data-engineer-4-proyectos-reales-datexland)
+* [![AWS-Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=year%232022)
 
 
 # My favorite tools : 
