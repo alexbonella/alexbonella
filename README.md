@@ -8,7 +8,7 @@ I consider myself a fan of task automation and ETL processes for this reason I k
 
 # Contributions : 
 
-* [![Udemy](https://img.shields.io/badge/Udemy-Course-purple)](bit.ly/3Z6qKRt)
+* [![Udemy](https://img.shields.io/badge/Udemy-Course-purple)](https://bit.ly/41cZfHD)
 * [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://datexland.medium.com/)
 * [![AWS-Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=year%232022)
 * [![Youtube-Talks](https://img.shields.io/badge/Youtube-Talks-red)](https://www.youtube.com/watch?v=8pECZZ6l8-4&t=3669s)
