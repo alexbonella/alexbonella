@@ -6,6 +6,10 @@ As a data lover, I enjoy creating ETL processes, transforming raw data into valu
 
 I consider myself a fan of task automation and ETL processes for this reason I keep learning every day about technologies like Airflow, Apache NIFI, AWS Lambda among others.
 
+# Freelancing Services :
+* [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/datexland/build-data-engineering-projects-end-to-end)
+
+
 # Contributions : 
 
 * [![Udemy](https://img.shields.io/badge/Udemy-Course-purple)](https://bit.ly/41cZfHD)
