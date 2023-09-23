@@ -6,8 +6,12 @@ As a data lover, I enjoy creating ETL processes, transforming raw data into valu
 
 I consider myself a fan of task automation and ETL processes for this reason I keep learning every day about technologies like Airflow, Apache NIFI, AWS Lambda among others.
 
-# Freelancing Services :
-* [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/datexland/build-data-engineering-projects-end-to-end)
+# Connect with me: 
+
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
+ [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
+ [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/users/10906576/alexbonella)
+ [![Twitter](https://img.shields.io/badge/-@datexland-1DA1F2)](https://twitter.com/datexland)
 
 
 # Contributions : 
@@ -17,12 +21,10 @@ I consider myself a fan of task automation and ETL processes for this reason I k
 * [![AWS-Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=year%232022)
 * [![Youtube-Talks](https://img.shields.io/badge/Youtube-Talks-red)](https://www.youtube.com/watch?v=8pECZZ6l8-4&t=3669s)
 
-# Connect with me: 
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
- [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
- [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/users/10906576/alexbonella)
- [![Twitter](https://img.shields.io/badge/-@datexland-1DA1F2)](https://twitter.com/datexland)
+
+# Freelancing Services :
+* [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/datexland/build-data-engineering-projects-end-to-end)
 
 # My favorite tools : 
 ![piton (1)](https://user-images.githubusercontent.com/45697319/119986243-39700700-bf89-11eb-9553-4901245868b1.png)
