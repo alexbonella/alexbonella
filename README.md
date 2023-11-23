@@ -2,9 +2,23 @@
 # Hello , I'm alexbonella 
 ### Sr Data Engineer | Udemy Instructor | AWS-CB   👨‍💻
 
-As a data lover, I enjoy creating ETL processes, transforming raw data into valuable data, finding insights that are capable of adding value to the business, orchestration is the key when you want to automate the delivery of the different types of files in real-time or batch, either to a data warehouse, a specific bucket or by email in any format of interest like CSV, JSON, parquet among others.
+I am a seasoned Data Engineer with over 4 years of experience in harnessing the power of data to drive business growth. My expertise lies in designing, developing, and implementing robust data pipelines, extracting valuable insights from web-scraped data, and leveraging cloud platforms like AWS and GCP to build scalable data solutions. With a proven track record in real-time data processing and ETL orchestration, I am passionate about helping businesses transform their data into actionable intelligence.
 
-I consider myself a fan of task automation and ETL processes for this reason I keep learning every day about technologies like Airflow, Apache NIFI, AWS Lambda among others.
+### Freelance Services 
+
+[![Upwork Profile](https://img.shields.io/badge/Upwork-Profile-green)](https://www.upwork.com/freelancers/~011681cd2e086b056d) 
+
+I offer freelance services to assist businesses in unlocking the potential of their data 
+
+* Design and implement data pipelines, seamlessly transferring data between various sources and destinations.
+* Extract valuable insights from web-scraped data, giving businesses a competitive edge.
+* Leverage cloud platforms like AWS and GCP to build scalable, cost-effective data solutions.
+* Develop real-time data processing pipelines to enable timely decision-making.
+* Implement ETL orchestration tools to ensure efficient and streamlined data management.
+* Enhance data quality and governance to maintain data integrity and reliability.
+
+
+
 
 # Connect with me: 
 
@@ -21,10 +35,6 @@ I consider myself a fan of task automation and ETL processes for this reason I k
 * [![AWS-Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=year%232022)
 * [![Youtube-Talks](https://img.shields.io/badge/Youtube-Talks-red)](https://www.youtube.com/watch?v=8pECZZ6l8-4&t=3669s)
 
-
-
-# Freelancing Services :
-* [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/datexland/build-data-engineering-projects-end-to-end)
 
 # My favorite tools : 
 ![piton (1)](https://user-images.githubusercontent.com/45697319/119986243-39700700-bf89-11eb-9553-4901245868b1.png)
