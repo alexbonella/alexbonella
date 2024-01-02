@@ -22,6 +22,9 @@ I offer freelance services to assist businesses in unlocking the potential of th
 
 * [Real-Time Analysis of a Simulated E-commerce Data Stream](https://www.educative.io/projects/real-time-analysis-of-a-simulated-e-commerce-data-stream) [![Educative Platform](https://img.shields.io/badge/Educative-Platform-blue)](https://www.educative.io/profile/view/5214055984529408)
 
+# Honors & awards
+
+* [1st Place - Mage Battlegrounds 24-hour virtual hackathon: ](https://github.com/alexbonella/Mage_Battlegrounds_Documentation)
 
 # Connect with me: 
 
