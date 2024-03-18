@@ -7,7 +7,7 @@ I am a seasoned Data Engineer with over 4 years of experience in harnessing the 
 ### Freelance Services 
 
 [![Top Mate](https://img.shields.io/badge/Top-Mate-orange)](https://topmate.io/datexland) 
-[![Upwork Profile](https://img.shields.io/badge/Upwork-Profile-green)](https://www.upwork.com/freelancers/~011681cd2e086b056d) 
+[![Upwork Profile](https://img.shields.io/badge/Upwork-Profile-green)](https://www.upwork.com/freelancers/~01fee6dbf62e3990c0) 
 
 I offer freelance services to assist businesses in unlocking the potential of their data 
 
