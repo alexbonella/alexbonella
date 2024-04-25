@@ -1,6 +1,6 @@
 
 # Hello , I'm alexbonella 
-#### Sr Data Engineer 🚀 | Technical Writer (50K+ Views) ✍️ | Udemy Instructor 🎓 | AWS Community Builder 🌐 | Empowering New Technologies 💪🏻 | Freelancer 💼
+#### Senior Data Engineer 🚀 | Technical Writer (50K+ Views) ✍️ | Udemy Instructor 🎓 | AWS Community Builder 🌐 | Empowering New Technologies 💪🏻 | Freelancer 💼
 
 I am a seasoned Data Engineer with over 4 years of experience in harnessing the power of data to drive business growth. My expertise lies in designing, developing, and implementing robust data pipelines, extracting valuable insights from web-scraped data, and leveraging cloud platforms like AWS and GCP to build scalable data solutions. With a proven track record in real-time data processing and ETL orchestration, I am passionate about helping businesses transform their data into actionable intelligence.
 
