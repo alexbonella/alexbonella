@@ -4,6 +4,9 @@
 
 I am a seasoned Data Engineer with over 6 years of experience in harnessing the power of data to drive business growth. My expertise lies in designing, developing, and implementing robust data pipelines, extracting valuable insights from web-scraped data, and leveraging cloud platforms like AWS and GCP to build scalable data solutions. With a proven track record in real-time data processing and ETL orchestration, I am passionate about helping businesses transform their data into actionable intelligence.
 
+### Github Journey Highlghts
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexbonella&mode=weekly&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+
 ### Freelance Services 
 
 [![Top Mate](https://img.shields.io/badge/Top-Mate-orange)](https://topmate.io/datexland) 
