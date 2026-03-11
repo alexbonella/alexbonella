@@ -1,8 +1,8 @@
 
 # Hello , I'm alexbonella 
-#### Senior Data Engineer 🚀 | Technical Writer (50K+ Views) ✍️ | Udemy Instructor 🎓 | AWS Community Builder 🌐 | Empowering New Technologies 💪🏻 | Freelancer 💼
+#### Senior Data Engineer 🚀 |AI-First Mindset| Technical Writer (50K+ Views) ✍️ | Udemy Instructor 🎓 | AWS Community Builder 🌐 | Empowering New Technologies 💪🏻 | Freelancer 💼
 
-I am a seasoned Data Engineer with over 6 years of experience in harnessing the power of data to drive business growth. My expertise lies in designing, developing, and implementing robust data pipelines, extracting valuable insights from web-scraped data, and leveraging cloud platforms like AWS and GCP to build scalable data solutions. With a proven track record in real-time data processing and ETL orchestration, I am passionate about helping businesses transform their data into actionable intelligence.
+I’m a Senior Data Engineer with 6+ years of experience, but more than that, I’m a curious builder obsessed with how AI can reshape the way we create, automate, and think. I’ve had the opportunity to win world-class hackathons, building AI-driven solutions from idea to prototype under pressure. Those experiences confirmed something about me: I don’t just enjoy working with technology, I enjoy exploring what’s next. I’m deeply self-taught and constantly experimenting, learning, and building in public.
 
 ### Github Journey Highlights
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexbonella&mode=weekly&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
@@ -27,7 +27,9 @@ I offer freelance services to assist businesses in unlocking the potential of th
 
 # Honors & awards
 
-* [1st Place - Mage Battlegrounds 24-hour virtual hackathon: ](https://github.com/alexbonella/Mage_Battlegrounds_Documentation)
+* [Winner Honarable mentions - AWS Lambda Hackathon ](https://devpost.com/software/smart-clip-ai)
+* [1st Place - Mage Battlegrounds 24-hour virtual hackathon](https://github.com/alexbonella/Mage_Battlegrounds_Documentation)
+
 
 # Connect with me: 
 
