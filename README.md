@@ -1,5 +1,5 @@
 
-# Hello , I'm alexbonella 
+# Hey, I'm Alex 
 #### Senior Data Engineer 🚀 |AI-First Mindset| Technical Writer (50K+ Views) ✍️ | Udemy Instructor 🎓 | AWS Community Builder 🌐 | Empowering New Technologies 💪🏻 | Freelancer 💼
 
 I’m a Senior Data Engineer with 6+ years of experience, but more than that, I’m a curious builder obsessed with how AI can reshape the way we create, automate, and think. I’ve had the opportunity to win world-class hackathons, building AI-driven solutions from idea to prototype under pressure. Those experiences confirmed something about me: I don’t just enjoy working with technology, I enjoy exploring what’s next. I’m deeply self-taught and constantly experimenting, learning, and building in public.
